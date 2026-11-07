@@ -17,3 +17,6 @@ Swift · SwiftUI · AppKit · AVFoundation · Gemini REST API
 ./build.sh
 ```
 This builds `Byte.app` into `~/Applications`. On first launch Byte asks for a free Gemini API key from [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
+
+## License
+MIT. Free to use, change and share. See [LICENSE](LICENSE).
